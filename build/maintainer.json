@@ -68,6 +68,9 @@
     "/atcoder/contest/:language?/:rated?/:category?/:keyword?": [
         "nczitzk"
     ],
+    "/audiobar/latest": [
+        "zxzhuty"
+    ],
     "/bandcamp/live": [
         "nczitzk"
     ],
@@ -788,6 +791,10 @@
     ],
     "/nodejs/blog/:language?": [
         "nczitzk"
+    ],
+    "/nogizaka46/news": [
+        "crispgm",
+        "Fatpandac"
     ],
     "/now/news/:category?/:id?": [
         "nczitzk"
@@ -2132,7 +2139,6 @@
     "/yidoutang/mtest": [],
     "/yidoutang/case/:type": [],
     "/kaiyan/index": [],
-    "/nogizaka46/news": [],
     "/keyakizaka46/news": [],
     "/hinatazaka46/news": [],
     "/keyakizaka46/blog": [],
